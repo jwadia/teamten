@@ -16,7 +16,7 @@ $uid = addslashes($_GET['id']);
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 <script src="http://code.jquery.com/ui/1.8.21/jquery-ui.min.js"></script>
-	<script src="jquery.ui.touch-punch.js"></script>
+	<script src="lib/jquery.ui.touch-punch.js"></script>
 </head>
 <body>
 <div class="container">
