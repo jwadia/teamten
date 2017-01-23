@@ -1,0 +1,8 @@
+body {
+	background: url(img/bg4.jpg) no-repeat center center fixed;
+	background-color: #444;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}

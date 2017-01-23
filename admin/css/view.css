@@ -1,0 +1,26 @@
+.dropzone {   
+    width: 220px;
+    height: 220px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.vertical-offset-50{
+   	padding-top:50px;
+}
+
+.wrapper {
+   position: relative;
+}
+
+.wrapper .glyphicon {
+   position: absolute;
+   position: absolute;
+   top: 0px;
+   right: 0px;
+}
+
+.glyphicon.glyphicon-plus-sign {
+    font-size: 30px;
+}
